@@ -20,4 +20,5 @@ When the game is restarted, the player will be shown a new random number, all th
 
 Game design note:
 The random number shown at the start of the game should be between 19 - 120
+
 Each crystal should have a random hidden value between 1 - 12
